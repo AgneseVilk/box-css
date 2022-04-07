@@ -1,0 +1,47 @@
+h2 {
+    color:blueviolet;
+    margin-bottom: 0;   
+}
+p {
+    padding: 0 5px 0 50px;
+}
+.box-one {
+    width: 100px;
+    height: 200px;
+    background-color: rgb(21, 131, 134);
+}
+.bow-two {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(107, 32, 32);
+}
+.bow-two p {
+    padding:0;
+}
+.left {
+    width: 200px;
+}
+.left img {
+    width: 100%;
+}
+.middle {
+    max-width: 300px;
+}
+.right {
+    width: 70px;
+}
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+li a {
+    text-align: center;
+    width: 100px;
+    margin: 5px;
+    border: 1px solid red;
+    display: block;
+    padding: 10px 16px;
+    text-decoration: none;
+    background-color: beige;
+}
